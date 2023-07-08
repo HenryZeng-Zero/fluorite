@@ -52,7 +52,7 @@
 
 === "操作流程"
 
-    ![BajieImport](resource/BajieImport.gif){ width="350" loading=lazy }
+    ![无法显示请右键点击，并选择重新加载图片](resource/BajieImport.gif){ width="350" loading=lazy }
 
 ### 悟空（屏蔽View）
 
@@ -88,7 +88,7 @@
 
 === "操作流程"
 
-    ![BajieImport](resource/WuKongConfig.gif){ width="350" loading=lazy }
+    ![无法显示请右键点击，并选择重新加载图片](resource/WuKongConfig.gif){ width="350" loading=lazy }
 
 
 
@@ -101,9 +101,9 @@
 
 ## 使用效果
 
-| 只用八戒               | 八戒 + 悟空（屏蔽View）       |
-| ------------------------------------ | -------------------------------------- |
-| ![BajieOnly](resource/BajieOnly.gif) | ![BajieOnly](resource/ViewAgainst.gif) |
+| 只用八戒                             | 八戒 + 悟空（屏蔽View）                      |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ![无法显示请右键点击，并选择重新加载图片](resource/BajieOnly.gif){loading=lazy}|![无法显示请右键点击，并选择重新加载图片](resource/ViewAgainst.gif){loading=lazy}|
 
 
 
