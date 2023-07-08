@@ -9,6 +9,8 @@ nav:
 theme:
   name: material
   language: zh
+  logo: assets/fluorite.webp
+  favicon: assets/fluorite.webp
   features:
     - content.action.edit
     - content.action.view
