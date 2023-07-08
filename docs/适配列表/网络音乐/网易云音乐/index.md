@@ -52,7 +52,7 @@
 
 === "操作流程"
 
-    ![BajieImport](resource\BajieImport.gif){ width="350" loading=lazy }
+    ![BajieImport](resource/BajieImport.gif){ width="350" loading=lazy }
 
 ### 悟空（屏蔽View）
 
@@ -103,7 +103,7 @@
 
 | 只用八戒               | 八戒 + 悟空（屏蔽View）       |
 | ------------------------------------ | -------------------------------------- |
-| ![BajieOnly](resource\BajieOnly.gif) | ![BajieOnly](resource\ViewAgainst.gif) |
+| ![BajieOnly](resource/BajieOnly.gif) | ![BajieOnly](resource/ViewAgainst.gif) |
 
 
 
