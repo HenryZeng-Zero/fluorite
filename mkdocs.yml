@@ -1,0 +1,50 @@
+site_name: fluorite
+nav:
+  - 缘起与须知: index.md
+  - 适配列表:
+    - 网络音乐:
+      - 网易云音乐: 适配列表/网络音乐/网易云音乐/index.md
+  - 编写本文档: 编写本文档.md
+
+theme:
+  name: material
+  language: zh
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    # - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    # - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
