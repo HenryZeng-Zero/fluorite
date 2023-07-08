@@ -88,7 +88,7 @@
 
 === "操作流程"
 
-    ![BajieImport](resource\WuKongConfig.gif){ width="350" loading=lazy }
+    ![BajieImport](resource/WuKongConfig.gif){ width="350" loading=lazy }
 
 
 
